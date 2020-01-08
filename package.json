@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "uri": "https://github.com/bzrncev/intellij-parameter-hints"
+    "uri": "https://github.com/bzrncev/material-monokai-theme"
   },
   "engines": {
     "vscode": "^1.41.0"
