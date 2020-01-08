@@ -1,5 +1,5 @@
 {
-  "tokenColors": "./bobbytheme.tmTheme",
+  "tokenColors": "./material-monokai-theme.tmTheme",
   "colors": {
     "editor.background": "#263238",
     "editorCursor.foreground": "#FFCC00",
