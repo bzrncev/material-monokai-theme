@@ -1,0 +1,27 @@
+{
+  "name": "material-monokai-theme",
+  "displayName": "Material/Monokai Theme",
+  "description": "",
+  "publisher": "BobbyZrncev",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "uri": "https://github.com/bzrncev/intellij-parameter-hints"
+  },
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material/Monokai Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MaterialMonokai Theme-color-theme.json"
+      }
+    ]
+  }
+}

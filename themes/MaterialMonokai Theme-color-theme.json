@@ -1,0 +1,12 @@
+{
+  "tokenColors": "./bobbytheme.tmTheme",
+  "colors": {
+    "editor.background": "#263238",
+    "editorCursor.foreground": "#FFCC00",
+    "editor.foreground": "#B1BFC2",
+    "editorWhitespace.foreground": "#65737E",
+    "editor.lineHighlightBackground": "#00000030",
+    "editor.selectionBackground": "#80CBC421"
+  },
+  "name": "Material/Monokai Theme"
+}
